@@ -29,14 +29,14 @@
     "sirv-cli": "1.0.3"
   },
   "dependencies": {
-    "@mantine/core": "2.0.2",
-    "@mantine/hooks": "2.0.2",
-    "@mantine/notifications": "2.0.2",
+    "@mantine/core": "4.1.4",
+    "@mantine/hooks": "4.1.4",
+    "@mantine/notifications": "4.1.4",
     "@modulz/radix-icons": "^4.0.0",
-    "preact": "^10.3.2",
+    "preact": "^10.7.2",
     "preact-compat": "^3.19.0",
-    "preact-render-to-string": "^5.1.4",
-    "preact-router": "^3.2.1",
+    "preact-render-to-string": "^5.2.0",
+    "preact-router": "^4.0.1",
     "react-jss": "^10.6.0"
   },
   "jest": {
